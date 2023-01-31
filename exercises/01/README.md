@@ -18,7 +18,7 @@ difficult to setup compare to just downloading `RStudio`.
 I personally use `VS code` since it can be used for many other languages 
 including `Python`, `C++` or `Java`. (all of which you will encounter in the future)
 
-To use `R` with `VS code`, you can simply follow this tutorial. ([Mac]https://github.com/REditorSupport/vscode-R/wiki/Installation:-macOS(),
+To use `R` with `VS code`, you can simply follow this tutorial. ([Mac](https://github.com/REditorSupport/vscode-R/wiki/Installation:-macOS),
  [Win](https://github.com/REditorSupport/vscode-R/wiki/Installation:-Windows))
 
  To then execute whole or just part of the script, I highlight
