@@ -1,2 +1,2 @@
-# ta-fyp
-Repo where I will store some of the examples from the exercise sessions.
+## Welcome ✋
+In this repository, I will store useful code snippets from the TA sessions.
